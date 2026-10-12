@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/XqmyDNOfQtigO5RWm7yRxPh0LEg</id>
+  <title>arXiv Query: search_query=ti:"EarthGPT"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-10-11T15:34:49Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22EarthGPT%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>2</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2504.12795v3</id>
+    <title>EarthGPT-X: A Spatial MLLM for Multi-level Multi-Source Remote Sensing Imagery Understanding with Visual Prompting</title>
+    <updated>2025-11-06T03:34:41Z</updated>
+    <link href="https://arxiv.org/abs/2504.12795v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2504.12795v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent advances in natural-domain multi-modal large language models (MLLMs) have demonstrated effective spatial reasoning through visual and textual prompting. However, their direct transfer to remote sensing (RS) is hindered by heterogeneous sensing physics, diverse modalities, and unique spatial scales. Existing RS MLLMs are mainly limited to optical imagery and plain language interaction, preventing flexible and scalable real-world applications. In this article, EarthGPT-X is proposed, the first flexible spatial MLLM that unifies multi-source RS imagery comprehension and accomplishes both coarse-grained and fine-grained visual tasks under diverse visual prompts in a single framework. Distinct from prior models, EarthGPT-X introduces: 1) a dual-prompt mechanism combining text instructions with various visual prompts (i.e., point, box, and free-form) to mimic the versatility of referring in human life; 2) a comprehensive multi-source multi-level prompting dataset, the model advances beyond holistic image understanding to support hierarchical spatial reasoning, including scene-level understanding and fine-grained object attributes and relational analysis; 3) a cross-domain one-stage fusion training strategy, enabling efficient and consistent alignment across modalities and tasks. Extensive experiments demonstrate that EarthGPT-X substantially outperforms prior nature and RS MLLMs, establishing the first framework capable of multi-source, multi-task, and multi-level interpretation using visual prompting in RS scenarios.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-04-17T09:56:35Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Wei Zhang</name>
+    </author>
+    <author>
+      <name>Miaoxin Cai</name>
+    </author>
+    <author>
+      <name>Yaqian Ning</name>
+    </author>
+    <author>
+      <name>Tong Zhang</name>
+    </author>
+    <author>
+      <name>Yin Zhuang</name>
+    </author>
+    <author>
+      <name>Shijian Lu</name>
+    </author>
+    <author>
+      <name>He Chen</name>
+    </author>
+    <author>
+      <name>Jun Li</name>
+    </author>
+    <author>
+      <name>Xuerui Mao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.16822v3</id>
+    <title>EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain</title>
+    <updated>2024-03-08T15:36:11Z</updated>
+    <link href="https://arxiv.org/abs/2401.16822v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2401.16822v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Multi-modal large language models (MLLMs) have demonstrated remarkable success in vision and visual-language tasks within the natural image domain. Owing to the significant diversities between the natural and remote sensing (RS) images, the development of MLLMs in the RS domain is still in the infant stage. To fill the gap, a pioneer MLLM named EarthGPT integrating various multi-sensor RS interpretation tasks uniformly is proposed in this paper for universal RS image comprehension. In EarthGPT, three key techniques are developed including a visual-enhanced perception mechanism, a cross-modal mutual comprehension approach, and a unified instruction tuning method for multi-sensor multi-task in the RS domain. More importantly, a dataset named MMRS-1M featuring large-scale multi-sensor multi-modal RS instruction-following is constructed, comprising over 1M image-text pairs based on 34 existing diverse RS datasets and including multi-sensor images such as optical, synthetic aperture radar (SAR), and infrared. The MMRS-1M dataset addresses the drawback of MLLMs on RS expert knowledge and stimulates the development of MLLMs in the RS domain. Extensive experiments are conducted, demonstrating the EarthGPT's superior performance in various RS visual interpretation tasks compared with the other specialist models and MLLMs, proving the effectiveness of the proposed EarthGPT and offering a versatile paradigm for open-set reasoning tasks.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-01-30T08:57:48Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Wei Zhang</name>
+    </author>
+    <author>
+      <name>Miaoxin Cai</name>
+    </author>
+    <author>
+      <name>Tong Zhang</name>
+    </author>
+    <author>
+      <name>Yin Zhuang</name>
+    </author>
+    <author>
+      <name>Xuerui Mao</name>
+    </author>
+  </entry>
+</feed>

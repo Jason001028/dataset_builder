@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/9trzcI2Nq0dJJNja5et5y1oh3mk</id>
+  <title>arXiv Query: search_query=all:"RSIT-1M" OR all:"RS-IT"&amp;id_list=&amp;start=0&amp;max_results=8</title>
+  <updated>2026-10-11T15:35:10Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22RSIT-1M%22+OR+all:%22RS-IT%22&amp;start=0&amp;max_results=8&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+  <opensearch:totalResults>4244</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2407.10267v1</id>
+    <title>RS-NeRF: Neural Radiance Fields from Rolling Shutter Images</title>
+    <updated>2024-07-14T16:27:11Z</updated>
+    <link href="https://arxiv.org/abs/2407.10267v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.10267v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neural Radiance Fields (NeRFs) have become increasingly popular because of their impressive ability for novel view synthesis. However, their effectiveness is hindered by the Rolling Shutter (RS) effects commonly found in most camera systems. To solve this, we present RS-NeRF, a method designed to synthesize normal images from novel views using input with RS distortions. This involves a physical model that replicates the image formation process under RS conditions and jointly optimizes NeRF parameters and camera extrinsic for each image row. We further address the inherent shortcomings of the basic RS-NeRF model by delving into the RS characteristics and developing algorithms to enhance its functionality. First, we impose a smoothness regularization to better estimate trajectories and improve the synthesis quality, in line with the camera movement prior. We also identify and address a fundamental flaw in the vanilla RS model by introducing a multi-sampling algorithm. This new approach improves the model's performance by comprehensively exploiting the RGB data across different rows for each intermediate camera pose. Through rigorous experimentation, we demonstrate that RS-NeRF surpasses previous methods in both synthetic and real-world scenarios, proving its ability to correct RS-related distortions effectively. Codes and data available: https://github.com/MyNiuuu/RS-NeRF</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-07-14T16:27:11Z</published>
+    <arxiv:comment>ECCV 2024 ; Codes and data: https://github.com/MyNiuuu/RS-NeRF</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Muyao Niu</name>
+    </author>
+    <author>
+      <name>Tong Chen</name>
+    </author>
+    <author>
+      <name>Yifan Zhan</name>
+    </author>
+    <author>
+      <name>Zhuoxiao Li</name>
+    </author>
+    <author>
+      <name>Xiang Ji</name>
+    </author>
+    <author>
+      <name>Yinqiang Zheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0803.2912v1</id>
+    <title>RS Ophiuchi in Quiescence: Why is it X-ray Faint?</title>
+    <updated>2008-03-19T23:39:43Z</updated>
+    <link href="https://arxiv.org/abs/0803.2912v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0803.2912v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  The short interval between successive outbursts of RS Oph strongly suggests that it has a high mass white dwarf accreting at a high rate. This, in turn, suggests the possibility of prominent X-ray emission from RS Oph in quiescence. However, archival quiescent X-ray observations of RS Oph show it to be a modest soft X-ray source but not a strong 2-10 keV X-ray source. In this aspect, RS Oph differs markedly from T CrB. We speculate on the possible mechanisms that could significantly suppress the 2-10 keV X-ray emission in RS Oph.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-03-19T23:39:43Z</published>
+    <arxiv:comment>4 pages, 1 figure, RS Oph (2006), Keele, UK, conference proceeding</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>Koji Mukai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0710.5628v1</id>
+    <title>Historic mass loss from the RS Ophiuchi system</title>
+    <updated>2007-10-30T12:31:06Z</updated>
+    <link href="https://arxiv.org/abs/0710.5628v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0710.5628v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Dust has been detected in the recurrent nova RS Ophiuchi on several occassions. I model the historical mid-infrared photometry and a recent Spitzer Space Telescope spectrum taken only half a year after the 2006 eruption. The dust envelope is little affected by the eruptions. I show evidence that the eruptions and possibly the red giant wind of RS Oph may sculpt the interstellar medium, and show similar evidence for the recurrent dwarf nova T Pyxidis.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2007-10-30T12:31:06Z</published>
+    <arxiv:comment>10 pages, 10 figures including colour images. To appear in "RS Ophiuchi (2006) and the recurrent nova phenomenon", eds. A. Evans, M.F. Bode &amp; T.J. O'Brien, ASP Conf.Ser</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>Jacco Th. van Loon</name>
+      <arxiv:affiliation>Keele University, UK</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0809.4583v1</id>
+    <title>Liverpool Telescope Optical Photometry Following the 2006 Outburst of RS Ophiuchi</title>
+    <updated>2008-09-26T10:09:26Z</updated>
+    <link href="https://arxiv.org/abs/0809.4583v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0809.4583v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We present a preliminary report on the broadband optical photometry of the 2006 outburst of the recurrent nova RS Ophiuchi. These data were obtained using the robotic 2m Liverpool Telescope and cover the outburst from day 27 through day 548.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-09-26T10:09:26Z</published>
+    <arxiv:comment>3 pages, 2 figures, to appear in ASP conference proceedings Volume 401 "RS Ophiuchi (2006) and the recurrent nova phenomenon"</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>M. J. Darnley</name>
+      <arxiv:affiliation>Astrophysics Research Institute, Liverpool John Moores University, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>R. A. Hounsell</name>
+      <arxiv:affiliation>Astrophysics Research Institute, Liverpool John Moores University, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>M. F. Bode</name>
+      <arxiv:affiliation>Astrophysics Research Institute, Liverpool John Moores University, UK</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.19392v1</id>
+    <title>HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition</title>
+    <updated>2026-04-21T12:18:15Z</updated>
+    <link href="https://arxiv.org/abs/2604.19392v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.19392v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Satellite image composition plays a critical role in remote sensing applications such as data augmentation, disaste simulation, and urban planning. We propose HarmoniDiff-RS, a training-free diffusion-based framework for harmonizing composite satellite images under diverse domain conditions. Our method aligns the source and target domains through a Latent Mean Shift operation that transfers radiometric characteristics between them. To balance harmonization and content preservation, we introduce a Timestep-wise Latent Fusion strategy by leveraging early inverted latents for high harmonization and late latents for semantic consistency to generate a set of composite candidates. A lightweight harmony classifier is trained to further automatically select the most coherent result among them. We also construct RSIC-H, a benchmark dataset for satellite image harmonization derived from fMoW, providing 500 paired composition samples. Experiments demonstrate that our method effectively performs satellite image composition, showing strong potential for scalable remote-sensing synthesis and simulation tasks. Code is available at: https://github.com/XiaoqiZhuang/HarmoniDiff-RS.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-21T12:18:15Z</published>
+    <arxiv:comment>8 pages, 6 figures, CVPR 2026 findings. Code is available at https://github.com/XiaoqiZhuang/HarmoniDiff-RS</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Xiaoqi Zhuang</name>
+    </author>
+    <author>
+      <name>Jefersson A. Dos Santos</name>
+    </author>
+    <author>
+      <name>Jungong Han</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0809.4593v1</id>
+    <title>Swift Observations of Shock Evolution in RS Ophiuchi</title>
+    <updated>2008-09-26T10:38:39Z</updated>
+    <link href="https://arxiv.org/abs/0809.4593v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0809.4593v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Our \textit{Swift} observations of RS Oph form an unprecedented X-ray dataset to undertake investigations of both the central source and the interaction of the outburst ejecta with the circumstellar environment. Over the first month, the XRT data are dominated by emission from rapidly evolving shocks. We discuss the differences in derived parameters from those found for \textit{RXTE} at early times and the evolution of the X-ray emission to much later times. It is apparent that at late times several emission components are present. We find no strong evidence of the proposed shock break-out in our data.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-09-26T10:38:39Z</published>
+    <arxiv:comment>5 pages, 3 figures, to appear in ASP conference proceedings Volume 401 "RS Ophiuchi (2006) and the recurrent nova phenomenon"</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>M. F. Bode</name>
+      <arxiv:affiliation>Astrophysics Research Institute, Liverpool John Moores University, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. P. Osborne</name>
+      <arxiv:affiliation>Department of Physics and Astronomy, University of Leicester, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>K. L. Page</name>
+      <arxiv:affiliation>Department of Physics and Astronomy, University of Leicester, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>A. P. Beardmore</name>
+      <arxiv:affiliation>Department of Physics and Astronomy, University of Leicester, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>T. J. O'Brien</name>
+      <arxiv:affiliation>School of Physics and Astronomy, University of Manchester, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. -U. Ness</name>
+      <arxiv:affiliation>School of Earth and Space Exploration, Arizona State University, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>S. Starrfield</name>
+      <arxiv:affiliation>School of Earth and Space Exploration, Arizona State University, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>G. K. Skinner</name>
+      <arxiv:affiliation>NASA Goddard Space Flight Center, Greenbelt, MD, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>M. J. Darnley</name>
+      <arxiv:affiliation>Astrophysics Research Institute, Liverpool John Moores University, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. J. Drake</name>
+      <arxiv:affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>A. Evans</name>
+      <arxiv:affiliation>Astrophysics Group, Keele University, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>S. P. S. Eyres</name>
+      <arxiv:affiliation>Centre for Astrophysics, University of Central Lancashire, UK</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. Krautter</name>
+      <arxiv:affiliation>Landessternwarte, Heidelberg, Germany</arxiv:affiliation>
+    </author>
+    <author>
+      <name>G. Schwarz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0802.3711v1</id>
+    <title>A non-spherical mass outflow from RS Oph during its 2006 outburst</title>
+    <updated>2008-02-25T21:49:07Z</updated>
+    <link href="https://arxiv.org/abs/0802.3711v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0802.3711v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We present results of our modeling the H-alpha line profile along the 2006 RS Oph outburst. At day 1.38 the very broad component of the H-alpha profile was possible to fit by a bipolar wind model. The model corresponds to a very fast acceleration of the wind particles, and the line luminosity of about 2900 (d/1.6 kpc)^2 solar luminosities to the mass-loss rate of around (1-2) x 10E-4 solar masses per year. During days 10-30 the broad component shrank to FWZI = 1800 km/s. It could be associated with expanding ring and its satellite components at about +/- 2430 km/s with bipolar jets. Later observations made at day 57 and 209 indicated a decrease in both the mass-loss rate (1xE-5 - 1xE-6 solar masses per year) and the wind acceleration. During the quiet phase, emission bumps observed sporadically in the line wings could reflect clumpy ejections by the central star.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-02-25T21:49:07Z</published>
+    <arxiv:comment>4 pages, 3 figures, will appear in the proceedings of the conference, RS Ophiuchi (2006)</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>A. Skopal</name>
+    </author>
+    <author>
+      <name>T. Pribulla</name>
+    </author>
+    <author>
+      <name>Ch. Buil</name>
+    </author>
+    <author>
+      <name>A. Vittone</name>
+    </author>
+    <author>
+      <name>L. Errico</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0807.1251v1</id>
+    <title>Supersoft X-ray Light Curve of RS Oph -- The White Dwarf Mass is Now Increasing</title>
+    <updated>2008-07-08T14:06:08Z</updated>
+    <link href="https://arxiv.org/abs/0807.1251v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0807.1251v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  The recurrent nova RS Ophiuchi, one of the candidates for Type Ia supernova progenitors, underwent the sixth recorded outburst in February 2006. We report a complete light curve of supersoft X-ray that is obtained for the first time. A numerical table of X-ray data is provided. The supersoft X-ray flux emerges about 30 days after the optical peak and continues until about 85 days when the optical flux shows the final decline. Such a long duration of supersoft X-ray phase can be naturally understood by our model in which a significant amount of helium layer piles up beneath the hydrogen burning zone during the outburst, suggesting that the white dwarf mass is effectively growing up. We have estimated the white dwarf mass in RS Oph to be 1.35 \pm 0.01 M_\sun and its growth rate to be about (0.5-1) \times 10^{-7} M_\sun yr^{-1} in average.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-07-08T14:06:08Z</published>
+    <arxiv:comment>4 pages, 2 figures, Proceeding of "RS Ophiuchi (2006)" conference held at Keele, 12-14 June 2007</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <author>
+      <name>Mariko Kato</name>
+    </author>
+    <author>
+      <name>Izumi Hachisu</name>
+    </author>
+    <author>
+      <name>Gerardo Juan Manuel Luna</name>
+    </author>
+  </entry>
+</feed>
